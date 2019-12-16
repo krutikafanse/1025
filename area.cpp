@@ -23,13 +23,13 @@ int main()
                 default:std::cout<<"\n Invalid selection\n";
         }
 }
-void area(int a,int b){
+void area(int A,int b){
                 int areai;
-                areai=a*b;
+                areai=A*b;
                 std::cout<<"\nThe area of the rectangle is " <<areai;
 }
-void area(float a, float b){
+void area(float A, float b){
                 float areaf;
-                areaf=a*b;
+                areaf=A*b;
                 std::cout<<"\nThe area of the rectangle is " <<areaf;
 }
