@@ -3,9 +3,9 @@ using namespace std;
 
 int addition (int x, int y)
 {
-  int r;
-  r=x*y;
-  return r;
+  int R;
+  R=x*y;
+  return R;
 }
 
 int main ()
