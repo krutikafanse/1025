@@ -2,13 +2,13 @@
 using namespace std; 
 int main() 
 { 
-    int i; 
+    int r; 
     cout<<"enter the number of rows"<<endl; 
     cin>>i; 
-    for(int j=i;i>0;j--) 
+    for(int j=r;r>0;j--) 
     { 
         cout<<endl; 
-        for(int k=0;k<i-j;k++) 
+        for(int k=0;k<r-j;k++) 
         { 
             cout<<" "; 
         } 
